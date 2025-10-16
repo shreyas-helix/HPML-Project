@@ -6,8 +6,8 @@
 ---
 
 ## **2. Team Members (2)**
-- **Student A:** [Your Name] ([YourNetID]@nyu.edu)  
-- **Student B:** [Teammate Name] ([TeammateNetID]@nyu.edu)
+- **Student A:** Shreyas KV [sk12200@nyu.edu] 
+- **Student B:** Pavan Kishore [pr2622@nyu.edu]
 
 ---
 

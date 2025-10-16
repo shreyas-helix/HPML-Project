@@ -162,4 +162,3 @@ By combining **quantized KV cache** techniques with **FlashAttention** kernels, 
 - Maintain model quality within **<5% degradation**  
 - Deliver reproducible **profiling-based efficiency benchmarks**
 
-Aligned with the **High Performance Machine Learning** course topics — quantization, mixed precision, CUDA profiling, and efficient transformers — this project provides both educational depth and measurable engineering impact.

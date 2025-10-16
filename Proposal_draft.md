@@ -3,7 +3,6 @@
 ## **1. Project Title**
 **Optimizing Large Language Model Inference through Key-Value (KV) Cache Quantization and Efficient Attention Mechanisms**
 
----
 
 ## **2. Team Members (2)**
 - **Student A:** Shreyas KV [sk12200@nyu.edu] 
